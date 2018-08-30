@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/bin/drmdiagapp:system/bin/drmdiagapp \
     vendor/sony/nozomi/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/sony/nozomi/proprietary/bin/dun-server:system/bin/dun-server \
-    vendor/sony/nozomi/proprietary/bin/fast-dormancy:system/bin/fast-dormancy \
     vendor/sony/nozomi/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/sony/nozomi/proprietary/bin/iddd:system/bin/iddd \
     vendor/sony/nozomi/proprietary/bin/idd-logreader:system/bin/idd-logreader \
@@ -74,10 +73,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/semc/chargemon/data/non-charging_animation_05.png:system/semc/chargemon/data/non-charging_animation_05.png \
     vendor/sony/nozomi/proprietary/semc/chargemon/data/non-charging_animation_06.png:system/semc/chargemon/data/non-charging_animation_06.png \
     vendor/sony/nozomi/proprietary/semc/chargemon/data/non-charging_animation_07.png:system/semc/chargemon/data/non-charging_animation_07.png \
-    vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_int_conf_fusion.txt:system/etc/fast-dormancy/fd_int_conf_fusion.txt \
-    vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_int_conf.txt:system/etc/fast-dormancy/fd_int_conf.txt \
-    vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_ext_conf.txt:system/etc/fast-dormancy/fd_ext_conf.txt \
-    vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_custm_conf.txt:system/etc/fast-dormancy/fd_custm_conf.txt \
     vendor/sony/nozomi/proprietary/etc/firmware/BCM4330.hcd:system/etc/firmware/BCM4330.hcd \
     vendor/sony/nozomi/proprietary/etc/firmware/bq27520_fw-0507_filever-0116_proj-nozo_golden.bqfs:system/etc/firmware/bq27520_fw-0507_filever-0116_proj-nozo_golden.bqfs \
     vendor/sony/nozomi/proprietary/etc/firmware/bq27520_fw-0507_filever-0116_proj-nozo_golden.dffs:system/etc/firmware/bq27520_fw-0507_filever-0116_proj-nozo_golden.dffs \
