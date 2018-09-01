@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/bin/illumination_service:system/bin/illumination_service \
     vendor/sony/nozomi/proprietary/bin/ks:system/bin/ks \
     vendor/sony/nozomi/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
-    vendor/sony/nozomi/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/sony/nozomi/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/sony/nozomi/proprietary/bin/nvimport:system/bin/nvimport \
     vendor/sony/nozomi/proprietary/bin/port-bridge:system/bin/port-bridge \
